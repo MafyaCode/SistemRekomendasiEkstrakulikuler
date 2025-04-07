@@ -1,0 +1,22 @@
+# Virtual Environment
+backend/venv/
+frontend-desktop/venv/ # Jika pakai venv terpisah
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Sensitif info
+config.py # Atau file .env jika pakai
+
+# Database file (jika SQLite dan tidak ingin di-commit)
+*.db
+*.sqlite3
