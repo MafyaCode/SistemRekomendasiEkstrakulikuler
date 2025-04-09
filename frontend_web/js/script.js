@@ -233,6 +233,6 @@ document.addEventListener('DOMContentLoaded', () => {
     if (submitButton) {
         submitButton.addEventListener('click', getRecommendations);
     } else {
-        console.error("Tombol submit tidak ditemukan!"); clusterResult console.dir(object);
+        console.error("Tombol submit tidak ditemukan!");
     }
 });
