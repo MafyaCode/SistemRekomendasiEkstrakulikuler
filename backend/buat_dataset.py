@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 # --- Konfigurasi ---
-JUMLAH_SISWA = 200  # Tentukan berapa banyak data siswa fiktif yang ingin dibuat
+JUMLAH_SISWA = 500  # Tentukan berapa banyak data siswa fiktif yang ingin dibuat
 KATEGORI_MINAT = [
     'Olahraga_Tim_Kompetisi',
     'Olahraga_Individu_Kebugaran',
